@@ -1,1 +1,1 @@
-# Quizo.Web.App
+/QUIZO FE/index.html
