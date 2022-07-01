@@ -1,2 +1,1 @@
-# QUIZO
- Quizo is a quiz app 
+/QUIZO FE/index.html
