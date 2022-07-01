@@ -1,1 +1,0 @@
-/QUIZO FE/index.html
